@@ -1,0 +1,10 @@
+name: KPClear
+main: xAndrei52\KPClear\Main
+version: 1.0
+api: [3.0.0, 3.11.1, 3.11.2, 3.11.3, 3.11.4, 3.11.5]
+author: xAndrei52
+
+commands:
+ ccnow:
+  description: "§rClear and control the §bchat from advertise,spam etc!"
+  permission: clear.kpclear
