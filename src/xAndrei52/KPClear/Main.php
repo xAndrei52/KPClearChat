@@ -68,7 +68,7 @@ class Main extends PluginBase implements Listener{
            $this->getServer()->broadcastMessage("§l§c(§4!§c) §rClearing Chat");
            $this->getServer()->broadcastMessage("§l§c(§4!§c) §rClearing Chat");
            $this->getServer()->broadcastMessage("§l§c(§4!§c) §rClearing Chat");
-           $this->getServer()->broadcastMessage("§l§c(§eKP§bClear§c) §r$senderName requested an §bclear of chat.");
+           $this->getServer()->broadcastMessage("§l§c(§eKP§bClear§c) §r$senderName requested an §bClear Of Chat.");
            $this->getServer()->broadcastMessage("§e§lKP§bClear §rplugin modded from 0 by §bxAndrei52");
            return true;
            }
